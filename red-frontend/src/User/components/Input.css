@@ -1,0 +1,12 @@
+#name,#email,#password,#number,#states,#address,#signup:focus{
+    outline: none !important;
+    box-shadow: none;
+    border-color:#9E64FF;
+}
+#signup{
+    background-color:#9E64FF;
+    color:white;
+}
+.error-text{
+    color:red;
+}
